@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Руслан Солтаев](https://up.htmlacademy.ru/javascript/19/user/22287).
-* Наставник: `Неизвестно`.
+* Наставник: `Дмитрий Быков`.
 
 ---
 
